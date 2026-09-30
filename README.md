@@ -1,4 +1,4 @@
-# Hi, I'm Nathan 👋
+# Hi, I'm Snayxen👋
 
 Networks & systems student from France, building web and mobile projects with AI-assisted development. I'm drawn to cloud and AI, and I like turning my own needs into useful tools.
 
